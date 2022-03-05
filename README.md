@@ -1,2 +1,2 @@
 # FleetOrganizer
-Using heaps to help organize nodes in a binary tree.
+This program makes use of heaps to orgranize the placement of a binary tree.
